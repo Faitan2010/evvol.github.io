@@ -9,7 +9,7 @@
     grid-template-columns: repeat(7, 1fr);
     grid-template-rows: repeat(2, minmax(100px 220px));
     grid-auto-rows: 190px;
-    gap: 0 15px;
+    gap: 10px 15px;
 }
 .image {
     width: 100%;
@@ -31,7 +31,7 @@
 }
 .container {
     padding-top: 25px;
-    max-width: 797px;
+    max-width: 1140px;
     margin: 0 auto;
 }
 .logo__img {
