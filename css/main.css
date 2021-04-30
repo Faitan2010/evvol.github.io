@@ -9,6 +9,7 @@
     grid-template-columns: repeat(7, 1fr);
     grid-template-rows: repeat(2, minmax(100px 220px));
     gap: 10px 15px;
+    margin-bottom: 15px;
 }
 .image {
     width: 100%;
@@ -28,9 +29,9 @@
     padding-bottom: 20px;
 }
 .container {
-    max-width: 800px;
+    max-width: 730px;
     margin: 0 auto;
-    padding-top: -15px;
+    padding-top: 10px;
 }
 .logo__img {
     display: block;
