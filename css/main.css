@@ -9,7 +9,7 @@
     grid-template-columns: repeat(7, 1fr);
     grid-template-rows: repeat(2, minmax(100px 220px));
     gap: 10px 15px;
-    margin-bottom: 15px;
+    margin-bottom: 35px;
 }
 .image {
     width: 100%;
