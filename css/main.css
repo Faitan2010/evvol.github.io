@@ -9,7 +9,16 @@
     grid-template-columns: repeat(7, 1fr);
     grid-template-rows: repeat(2, minmax(100px 220px));
     gap: 10px 15px;
-    margin-bottom: 35px;
+    margin-bottom: 20px;
+}
+.second__wrapper {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(2, minmax(100px 220px));
+    gap: 10px 15px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    margin-bottom: 15px;
 }
 .image {
     width: 100%;
@@ -17,6 +26,8 @@
 .info {
     font-size: 12px;
     text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 .costs {
     text-align: center;
@@ -28,8 +39,15 @@
     text-align: center;
     padding-bottom: 20px;
 }
+.title__second {
+    font-size: 28px;
+    text-align: center;
+}
+.middle__title {
+    padding-top: 10px;
+}
 .container {
-    max-width: 730px;
+    max-width: 1140px;
     margin: 0 auto;
     padding-top: 10px;
 }
