@@ -52,6 +52,20 @@
 .title__second {
     font-size: 28px;
     text-align: center;
+    padding-top: 40px;
+    padding-bottom: 15px;
+}
+.title__third {
+    font-size: 28px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 15px;
+}
+.title__four{
+    font-size: 28px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 15px;
 }
 .middle__title {
     padding-top: 10px;
